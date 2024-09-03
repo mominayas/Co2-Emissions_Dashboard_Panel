@@ -32,12 +32,3 @@ You can install these dependencies via pip:
 
 ```bash
 pip install pandas panel hvplot
-
-##Run Dashboard
-panel serve --show co2_dashboard.py
-
-
-
-## Clone the repository
-git clone https://github.com/mominayas/co2-emissions-dashboard.git
-cd co2-emissions-dashboard
