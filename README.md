@@ -38,6 +38,6 @@ panel serve --show co2_dashboard.py
 
 
 
-##Clone the repository
+## Clone the repository
 git clone https://github.com/mominayas/co2-emissions-dashboard.git
 cd co2-emissions-dashboard
