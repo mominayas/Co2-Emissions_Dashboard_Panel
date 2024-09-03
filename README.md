@@ -25,7 +25,7 @@ git clone https://github.com/mominayas/co2-emissions-dashboard.git
 cd co2-emissions-dashboard
 
 ## Run Dashboard
-panel serve --show co2_dashboard.py
+panel serve co2_dashboard.ipynb
 
 ## Requirements
 
