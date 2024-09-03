@@ -20,6 +20,13 @@ The dashboard contains the following visualizations:
 - **Responsive Layout**: Adjusts to different screen sizes for optimal user experience.
 - **Built with Modern Python Libraries**: Utilizes Panel for dashboard creation and Pandas for data manipulation.
 
+## Clone the repository
+git clone https://github.com/mominayas/co2-emissions-dashboard.git
+cd co2-emissions-dashboard
+
+## Run Dashboard
+panel serve --show co2_dashboard.py
+
 ## Requirements
 
 To run the dashboard, you need the following libraries:
@@ -32,3 +39,5 @@ You can install these dependencies via pip:
 
 ```bash
 pip install pandas panel hvplot
+
+
